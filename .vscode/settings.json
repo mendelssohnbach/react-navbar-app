@@ -1,0 +1,49 @@
+{
+  "editor.fontFamily": "'HackGenNerd','Cica','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.formatOnSave": true,
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": true
+  // },
+  // "eslint.validate": ["javascript"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 17,
+  "editor.linkedEditing": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [70, 80, 120],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "deepIndent",
+  "emmet.includeLanguages": {
+    // jsx,tsxでEmmetを使用
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "html.format.enable": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "files.associations": {
+    "*.ejs": "html"
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "javascript": "javascript",
+    "javascriptreact": "html",
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "remove-bg.apiKey": "Pn3yhwUtvzkU2LNVs3DxnAnV",
+  "cSpell.words": ["Signup"],
+  "typescript.locale": "en",
+  "emmet.variables": {
+    "lang": "ja"
+  }
+}
